@@ -1,5 +1,8 @@
 # caniuse-backup-utils
-Version matrix of GitHub Enterprise Server and backup-utils.
+
+Version matrix of [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.6/admin/all-releases) and [backup-utils](https://github.com/github/backup-utils).
+
+[GitHub Enterprise Server version requirements](https://github.com/github/backup-utils/blob/master/docs/requirements.md#github-enterprise-server-version-requirements)
 
 [Can I use backup-utils? - Google Sheets](https://docs.google.com/spreadsheets/d/1L78xOOjCm-j3r3cRj-gLFwosfoqw1d6-hmz2MPZmUsA/edit#gid=0)
 
