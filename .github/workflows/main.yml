@@ -36,3 +36,5 @@ jobs:
           echo test, and deploy your project.
       - run: |
           gh api /repos/github/backup-utils/releases -q '.[].tag_name'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
