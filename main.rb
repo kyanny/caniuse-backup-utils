@@ -1,5 +1,84 @@
 #!/usr/bin/env ruby
+# coding: utf-8
+require "csv"
+require "time"
 
+def series_of(version)
+  m = version.match(/\Av?(\d+\.\d+)/)
+  m[1]
+end
+
+def keyword_Date(t = Time.now)
+  "$Date: #{t.strftime("%F")} #{t.strftime("%T")} #{t.strftime("%z")} (#{t.strftime("%a")}, #{t.strftime("%d")} #{t.strftime("%b")} #{t.strftime("%Y")}) $"
+end
+
+bvs = File.readlines("bvs.txt").map(&:chomp)
+gvs = File.readlines("gvs.txt").map(&:chomp)
+gss = gvs.map{ series_of(_1) }.uniq
+
+bi0 = bvs.index("v2.13.0")
+bi1 = bvs.index("v2.11.4")
+bi2 = bvs.index("v2.11.0")
+
+gs1 = %w[2.10 2.9 2.8 2.7 2.6 2.5 2.4 2.3 2.2]
+gs2 = %w[2.1 2.0 11.11 11.10]
+
+# bv 2.13.0 -> gv [2.13, 2.12, 2.11], ...
+# bv 2.11.4 -> gv [2.10, ..., 2.2]
+# bv 2.11.0 -> gv [2.1, ...]
+
+compatible = "✅"
+incompatible = "❌"
+
+matrix = []
+row0 = [""].concat(gss)
+matrix << row0
+
+0.upto(bvs.length-1) do |i|
+  bv = bvs[i]
+  if i <= bi0
+    bs = series_of(bv)
+    gi0 = gss.index(bs)
+    gi1 = gi0 + 1
+    gi2 = gi0 + 2
+    gs = [gss[gi0], gss[gi1], gss[gi2]]
+    row = gss.map { gs.include?(_1) ? compatible : incompatible }
+    row.insert(0, bv)
+    matrix << row
+  elsif bi1 <= i && i <= bi2
+    row = gss.map { gs1.include?(_1) ? compatible : incompatible }
+    row.insert(0, bv)
+    matrix << row
+  else
+    row = gss.map { gs2.include?(_1) ? compatible : incompatible }
+    row.insert(0, bv)
+    matrix << row
+  end
+end
+
+matrix.map!.with_index do |row, i|
+  if i == 0
+    row.insert(0, "⬇️ backup-utils")
+  else
+    row.insert(0, "")
+  end
+end
+
+header = Array.new(gss.size, "")
+header.insert(0, "", "GitHub Enterprise Server ➡️", "")
+matrix.insert(0, header)
+
+CSV.open("matrix.csv", "w") do |csv|
+  matrix.each do |row|
+    csv << row
+  end
+end
+# matrix.each do |row|
+#   puts CSV.generate_line row
+# end
+
+
+__END__
 require 'roo'
 require 'csv2md'
 xlsx = Roo::Excelx.new('CanIusebackup-utils.xlsx')
