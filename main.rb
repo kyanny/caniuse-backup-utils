@@ -10,10 +10,6 @@ def series_of(version)
   m[1]
 end
 
-def keyword_Date(t = Time.now)
-  "$Date: #{t.strftime("%F")} #{t.strftime("%T")} #{t.strftime("%z")} (#{t.strftime("%a")}, #{t.strftime("%d")} #{t.strftime("%b")} #{t.strftime("%Y")}) $"
-end
-
 bvs = File.readlines("bvs.txt").map(&:chomp)
 gvs = File.readlines("gvs.txt").map(&:chomp)
 gss = gvs.map{ series_of(_1) }.uniq
@@ -27,8 +23,6 @@ gs2 = %w[2.1 2.0 11.11 11.10]
 
 compatible = "✅"
 incompatible = "❌"
-# compatible = "o"
-# incompatible = "x"
 
 matrix = []
 row0 = ["", "GitHub Enterprise Server"].concat(Array.new(gss.size - 1))
@@ -89,7 +83,6 @@ thead = <<HTML
   </thead>
 HTML
 html.sub!(%r!  <thead>\s*<tr>\s*.*</tr>\s*</thead>!m, thead)
-#puts html
 
 # update README
 readme = <<README
@@ -102,31 +95,6 @@ Version matrix of [GitHub Enterprise Server](https://docs.github.com/en/enterpri
 [Can I use backup-utils? - Google Sheets](https://docs.google.com/spreadsheets/d/1L78xOOjCm-j3r3cRj-gLFwosfoqw1d6-hmz2MPZmUsA/edit#gid=0)
 
 #{html}
-README
-
-File.write('README.md', readme)
-
-
-__END__
-require 'roo'
-require 'csv2md'
-xlsx = Roo::Excelx.new('CanIusebackup-utils.xlsx')
-sheet = xlsx.sheet(0)
-csv = sheet.to_csv
-csv2md = Csv2md.new(csv)
-md_table = csv2md.gfm
-
-readme = <<README
-# caniuse-backup-utils
-
-Version matrix of [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.6/admin/all-releases) and [backup-utils](https://github.com/github/backup-utils).
-
-[GitHub Enterprise Server version requirements](https://github.com/github/backup-utils/blob/master/docs/requirements.md#github-enterprise-server-version-requirements)
-
-[Can I use backup-utils? - Google Sheets](https://docs.google.com/spreadsheets/d/1L78xOOjCm-j3r3cRj-gLFwosfoqw1d6-hmz2MPZmUsA/edit#gid=0)
-
-#{md_table}
-
 README
 
 File.write('README.md', readme)
