@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
 
   schedule:
-    # At 17:00 on Sunday.
-    # Because GAS trigger runs 00:00 ~ 01:00 every Monday (15:00 ~ 16:00 every Sunday)
     - cron: '0 17 * * 0'
 
 jobs:
