@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+set -ex
 
 # Fetch all backup-utils release versions
 gh api --paginate /repos/github/backup-utils/releases -q '.[].tag_name' | sort -rV > bvs.txt
