@@ -94,6 +94,45 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
     </tr>
     <tr>
+      <td>v3.9.2</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
       <td>v3.9.1</td>
       <td>❌</td>
       <td>✅</td>
@@ -139,6 +178,45 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>✅</td>
       <td>✅</td>
       <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td>v3.8.2</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -250,6 +328,45 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
     </tr>
     <tr>
+      <td>v3.7.2</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
       <td>v3.7.1</td>
       <td>❌</td>
       <td>❌</td>
@@ -297,6 +414,45 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>✅</td>
       <td>✅</td>
       <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
+      <td>v3.6.2</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
