@@ -10,13 +10,14 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
   <thead>
     <tr>
       <th> </th>
-      <th colspan="41">GitHub Enterprise Server</th>
+      <th colspan="42">GitHub Enterprise Server</th>
     </tr>
   </thead>
 
   <tbody>
     <tr>
       <td>backup-utils</td>
+      <td>3.16</td>
       <td>3.15</td>
       <td>3.14</td>
       <td>3.13</td>
@@ -60,7 +61,53 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>11.10</td>
     </tr>
     <tr>
+      <td>v3.16.0</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>✅</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+      <td>❌</td>
+    </tr>
+    <tr>
       <td>v3.15.1</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -105,6 +152,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.15.0</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -150,6 +198,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     <tr>
       <td>v3.14.2</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -194,6 +243,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     <tr>
       <td>v3.14.1</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -237,6 +287,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.14.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>✅</td>
       <td>✅</td>
@@ -283,6 +334,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>v3.13.3</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -325,6 +377,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.13.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
@@ -371,6 +424,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>v3.13.1</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -413,6 +467,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.13.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
@@ -460,6 +515,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -501,6 +557,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.12.4</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -548,6 +605,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -589,6 +647,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.12.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -636,6 +695,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -677,6 +737,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.12.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -725,6 +786,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -765,6 +827,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.11.5</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -813,6 +876,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -853,6 +917,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.11.3</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -901,6 +966,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -945,6 +1011,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -985,6 +1052,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.11.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1034,6 +1102,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1073,6 +1142,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.10.6</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1122,6 +1192,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1161,6 +1232,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.10.4</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1210,6 +1282,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1249,6 +1322,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.10.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1298,6 +1372,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1337,6 +1412,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.10.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1387,6 +1463,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1425,6 +1502,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.9.7</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1475,6 +1553,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1513,6 +1592,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.9.5</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1563,6 +1643,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1601,6 +1682,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.9.3</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1651,6 +1733,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1695,6 +1778,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1733,6 +1817,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.9.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1784,6 +1869,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1821,6 +1907,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.8.4</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1872,6 +1959,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1909,6 +1997,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.8.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -1960,6 +2049,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -1997,6 +2087,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.8.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2049,6 +2140,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2085,6 +2177,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.7.3</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2137,6 +2230,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2181,6 +2275,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2217,6 +2312,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.7.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2270,6 +2366,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2305,6 +2402,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.6.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2358,6 +2456,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2402,6 +2501,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2437,6 +2537,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.5.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2492,6 +2593,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2525,6 +2627,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.4.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2581,6 +2684,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2625,6 +2729,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2657,6 +2762,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.3.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2714,6 +2820,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2758,6 +2865,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2789,6 +2897,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.2.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2847,6 +2956,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2877,6 +2987,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.1.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -2936,6 +3047,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -2965,6 +3077,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v3.0.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3025,6 +3138,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3053,6 +3167,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.21.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3115,6 +3230,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3159,6 +3275,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3185,6 +3302,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.20.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3248,6 +3366,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3273,6 +3392,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.19.4</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3336,6 +3456,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3361,6 +3482,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.19.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3424,6 +3546,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3468,6 +3591,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3493,6 +3617,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.18.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3558,6 +3683,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3581,6 +3707,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.17.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3647,6 +3774,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3669,6 +3797,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.16.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3736,6 +3865,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3757,6 +3887,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.15.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3825,6 +3956,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3845,6 +3977,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.14.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -3913,6 +4046,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -3933,6 +4067,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.14.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4002,6 +4137,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4046,6 +4182,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4065,6 +4202,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.13.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4137,6 +4275,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4153,6 +4292,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.11.3</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4225,6 +4365,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4269,6 +4410,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4285,6 +4427,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.11.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4366,6 +4509,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4373,6 +4517,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.9.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4454,6 +4599,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4461,6 +4607,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.8.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4542,6 +4689,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4549,6 +4697,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.8.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4630,6 +4779,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4637,6 +4787,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.7.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4718,6 +4869,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4725,6 +4877,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.6.3</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4806,6 +4959,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4813,6 +4967,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.6.1</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4894,6 +5049,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4901,6 +5057,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.5.2</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -4982,6 +5139,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -4989,6 +5147,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.5.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -5070,6 +5229,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -5077,6 +5237,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.2.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -5158,6 +5319,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -5165,6 +5327,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v2.0.1</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -5246,6 +5409,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -5253,6 +5417,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v1.1</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
@@ -5334,6 +5499,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -5378,6 +5544,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
+      <td>❌</td>
       <td>✅</td>
       <td>✅</td>
       <td>✅</td>
@@ -5385,6 +5552,7 @@ You can see the matrix spreadsheet on [Google Sheets](https://docs.google.com/sp
     </tr>
     <tr>
       <td>v0.9.0</td>
+      <td>❌</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
